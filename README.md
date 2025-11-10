@@ -42,4 +42,3 @@ Aplikasi mempertimbangkan 7 parameter utama:
 4. **Lihat hasil rekomendasi** tanaman yang muncul
 5. **Explore data** tambahan di section statistik
 
-## 📁 Struktur Project
